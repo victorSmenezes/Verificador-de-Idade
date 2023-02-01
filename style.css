@@ -18,6 +18,10 @@ section {
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.363);
 }
 
+#botao{
+    cursor: pointer;
+}
+
 #res{
     text-align: center;
     padding: 50px;
