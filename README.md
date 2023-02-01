@@ -5,7 +5,7 @@ O site consiste em colocar o ano de nascimento e o sexo, assim, ele mostrará se
 
 link:https://lnkd.in/dtX59B4k
 
-Feito com as tecnologias HTML e CSS e com Linguagem JavaScript, usando a function New Date() para a verificação do ano, condicional... If, onclick etc.
+Feito com as tecnologias HTML e CSS e com a Linguagem JavaScript, usando a function New Date() para a verificação do ano, condicional... If, onclick etc.
 
 ##
 
